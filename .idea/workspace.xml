@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e1eff4-a0d2-42c2-b415-6f3b5bfe8315" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lesson_4/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lesson_4/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../Lesson_4/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lesson_5.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lesson_5.js" />
-      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
-      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/path.macros.xml" />
-      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/scratches.xml" />
-      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/usageView.xml" />
-      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/watcherDefaultTasks.xml" />
-      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change beforePath="$USER_HOME$/package.json" afterPath="$USER_HOME$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lesson_5.1.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/lesson_5.js" afterPath="$PROJECT_DIR$/lesson_5.js" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/.idea/dictionaries/user.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/.idea/libraries/Generated_files.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/.idea/watcherTasks.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/greeting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/homework_22.09.18.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.18/homework_22.09.18.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../homework_22.09.2018/.idea/markdown-navigator.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/lesson_5.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -44,8 +45,18 @@
       <file leaf-file-name="lesson_5.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson_5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="547">
+              <caret line="100" column="4" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lesson_5.1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson_5.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -62,12 +73,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lesson_5.html" />
+        <option value="$PROJECT_DIR$/lesson_5.1.js" />
         <option value="$PROJECT_DIR$/lesson_5.js" />
       </list>
     </option>
@@ -78,8 +90,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="170" />
+    <option name="y" value="209" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -93,24 +106,24 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="lesson_5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
+              <item name="JS_Lesson_5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS_Lesson_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -135,7 +148,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="lesson_5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lesson_5.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="lesson_5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="lesson_5.1.js" working-dir="$PROJECT_DIR$" />
     <recent_temporary>
       <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Node.js.lesson_5.js" />
@@ -157,23 +170,25 @@
       <updated>1539191604958</updated>
       <workItem from="1539191606778" duration="7451000" />
       <workItem from="1539199441865" duration="86000" />
+      <workItem from="1539237670073" duration="15391000" />
+      <workItem from="1539267698231" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7537000" />
+    <option name="totallyTimeSpent" value="22953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1440" height="797" extended-state="1" />
+    <frame x="170" y="209" width="1440" height="797" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3988604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -193,7 +208,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -201,6 +216,30 @@
     <entry file="file://$PROJECT_DIR$/lesson_5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_5.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="100" column="4" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
@@ -222,17 +261,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Lesson_4/lesson_4.js">
+    <entry file="file://$PROJECT_DIR$/lesson_5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lesson_4/lesson_4.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="601" column="4" lean-forward="false" selection-start-line="601" selection-start-column="4" selection-end-line="601" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson_5.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="58" />
+        <state relative-caret-position="547">
+          <caret line="100" column="4" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
           <folding />
         </state>
       </provider>
